@@ -27,7 +27,7 @@ const kLogoText = TextStyle(
   color: kYellowColor,
   fontFamily: 'Raleway',
   fontWeight: FontWeight.bold,
-  letterSpacing: 3,
+  letterSpacing: 2.8,
   fontSize: 40,
 );
 
